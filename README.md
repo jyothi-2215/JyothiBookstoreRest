@@ -1,9 +1,7 @@
 Created Rest API using Data Access Object Pattern
 ---
 Typing the following URLs in your address bar should result in you seeing the specified JSON content.
-___
 Assume the URLs below all have the required prefix. 
-___
 http://webdev.cs.vt.edu:8080/JyothiBookstoreReactRest/
 
 | path| Information| 
